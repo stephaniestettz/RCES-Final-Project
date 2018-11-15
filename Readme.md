@@ -1,7 +1,6 @@
 # RCES Final Project Proposal
 ## Stephanie Stettz
 
-
 ### Scientific Question
 
 ### Datasets
