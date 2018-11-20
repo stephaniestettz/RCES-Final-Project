@@ -2,6 +2,7 @@
 ## Stephanie Stettz
 
 ### Scientific Question
+Is there a relationship between the number of recorded cases of 10 communicable diseases and the temperature record in New York City from 2004 to 2016?
 
 ### Datasets
 NYCData Communicable Disease Surveillance Data: 
@@ -11,6 +12,6 @@ NOAA NCEP-NCAR CDAS-1 MONTHLY temperature data from IRI Data Library:
 https://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/
 
 ### Summary of Intended Project
-
+I will attempt to determine if there is a correlation between the number of communicable disease cases from 2004 to 2016 in NYC and the temperature record. I will also see if certain types of communicable diseases have an increased or decreased number of cases due to changes in temperature.  I will complete this analysis using pandas, xarray, and potentially Statsmodels.  
 
 
