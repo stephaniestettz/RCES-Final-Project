@@ -2,7 +2,7 @@
 ## Stephanie Stettz
 
 ### Scientific Question
-Is there a relationship between the number of recorded cases of 10 communicable diseases and air temperature in New York City from 2004 to 2016?
+Is there a relationship between the number of recorded cases of 10 communicable diseases and air temperature in New York City from 2000 to 2016.
 
 ### Datasets
 NYCData Communicable Disease Surveillance Data: 
