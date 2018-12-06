@@ -1,6 +1,9 @@
 # RCES Final Project Proposal
 ## Stephanie Stettz
 
+### Binder Link
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stephaniestettz/RCES-Final-Project/master)
+
 ### Scientific Question
 Is there a relationship between the number of recorded cases of 10 communicable diseases and air temperature in New York City from 2000 to 2016.
 
